@@ -1,2 +1,0 @@
-# effective-winner
-coder forever
